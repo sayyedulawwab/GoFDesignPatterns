@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flyweight", "src\Structural
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype", "src\Creational\Prototype\Prototype.csproj", "{8DFBE5C5-915E-4E88-831C-19069078F0E0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterator", "src\Behavioral\Iterator\Iterator.csproj", "{973BAEEB-0612-4C8B-B1CF-B0B35D98EA46}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -131,6 +133,10 @@ Global
 		{8DFBE5C5-915E-4E88-831C-19069078F0E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8DFBE5C5-915E-4E88-831C-19069078F0E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8DFBE5C5-915E-4E88-831C-19069078F0E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{973BAEEB-0612-4C8B-B1CF-B0B35D98EA46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{973BAEEB-0612-4C8B-B1CF-B0B35D98EA46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{973BAEEB-0612-4C8B-B1CF-B0B35D98EA46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{973BAEEB-0612-4C8B-B1CF-B0B35D98EA46}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -158,6 +164,7 @@ Global
 		{790E29A3-79F4-4A3A-85E3-A25DA467D9C7} = {FC1B6D25-D12F-4449-A2FA-7F5A0EA83500}
 		{CD5166C4-13F6-431A-BB52-249FE7E0819B} = {FC1B6D25-D12F-4449-A2FA-7F5A0EA83500}
 		{8DFBE5C5-915E-4E88-831C-19069078F0E0} = {68BA9447-7917-4587-A9AE-721A07534EB4}
+		{973BAEEB-0612-4C8B-B1CF-B0B35D98EA46} = {9CA8ED92-D258-44C7-8B48-E95C886B175C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2E0AC055-F006-4F79-80F8-95C6E559B1F4}
