@@ -3,7 +3,6 @@
 This repository contains real-world **backend-focused** examples of the **Gang of Four (GoF)** design patterns using C#. The goal of this project is to learn and understand the design patterns and how these can be implemented. 
 Each pattern includes a **Bad** version and a **Refactored** version, along with a runnable `Program.cs` for comparison.
 
----
 
 ## ✅ Implemented Design Patterns (Ordered by usefulness in backend)
 
@@ -31,12 +30,10 @@ Each pattern includes a **Bad** version and a **Refactored** version, along with
 22. Interpreter (Behavioral) - [Example](https://github.com/sayyedulawwab/GoFDesignPatterns/tree/main/src/Behavioral/Interpreter)  
 23. Visitor (Behavioral) - [Example](https://github.com/sayyedulawwab/GoFDesignPatterns/tree/main/src/Behavioral/Visitor)  
 
----
 
 ## Implemented Design Patterns Categorized into Behavioral, Structural and Creational
 
-## 🎯 Behavioral Patterns
-
+### 🎯 Behavioral Patterns
 1. Strategy (Behavioral) - [Example](https://github.com/sayyedulawwab/GoFDesignPatterns/tree/main/src/Behavioral/Strategy)  
 2. Observer (Behavioral) - [Example](https://github.com/sayyedulawwab/GoFDesignPatterns/tree/main/src/Behavioral/Observer)  
 3. Command (Behavioral) - [Example](https://github.com/sayyedulawwab/GoFDesignPatterns/tree/main/src/Behavioral/Command)  
@@ -49,10 +46,7 @@ Each pattern includes a **Bad** version and a **Refactored** version, along with
 10. Interpreter (Behavioral) - [Example](https://github.com/sayyedulawwab/GoFDesignPatterns/tree/main/src/Behavioral/Interpreter)  
 11. Visitor (Behavioral) - [Example](https://github.com/sayyedulawwab/GoFDesignPatterns/tree/main/src/Behavioral/Visitor)  
 
----
-
 ## 🏗️ Structural Patterns
-
 12. Decorator (Structural) - [Example](https://github.com/sayyedulawwab/GoFDesignPatterns/tree/main/src/Structural/Decorator)  
 13. Adapter (Structural) - [Example](https://github.com/sayyedulawwab/GoFDesignPatterns/tree/main/src/Structural/Adapter)  
 14. Proxy (Structural) - [Example](https://github.com/sayyedulawwab/GoFDesignPatterns/tree/main/src/Structural/Proxy)  
@@ -61,31 +55,20 @@ Each pattern includes a **Bad** version and a **Refactored** version, along with
 17. Bridge (Structural) - [Example](https://github.com/sayyedulawwab/GoFDesignPatterns/tree/main/src/Structural/Bridge)  
 18. Flyweight (Structural) - [Example](https://github.com/sayyedulawwab/GoFDesignPatterns/tree/main/src/Structural/Flyweight)  
 
----
-
 ## 🧱 Creational Patterns
-
 19. Factory Method (Creational) - [Example](https://github.com/sayyedulawwab/GoFDesignPatterns/tree/main/src/Creational/FactoryMethod)  
 20. Singleton (Creational) - [Example](https://github.com/sayyedulawwab/GoFDesignPatterns/tree/main/src/Creational/Singleton)  
 21. Builder (Creational) - [Example](https://github.com/sayyedulawwab/GoFDesignPatterns/tree/main/src/Creational/Builder)  
 22. Abstract Factory (Creational) - [Example](https://github.com/sayyedulawwab/GoFDesignPatterns/tree/main/src/Creational/AbstractFactory)  
 23. Prototype (Creational) - [Example](https://github.com/sayyedulawwab/GoFDesignPatterns/tree/main/src/Creational/Prototype)  
 
-
----
-
 ## 🧠 About
-
 - All examples are backend-centric
 - Built using C# with runnable projects
 - Clean separation of Bad vs Refactored
 - Ideal for learning, interviews, and real-world projects
 
----
-
 ## 👋 Let’s Connect
 
 - LinkedIn: [sayyedulawwab](https://www.linkedin.com/in/sayyedulawwab)
 - Website: [sayyedulawwab.com](https://sayyedulawwab.com)
-
----
