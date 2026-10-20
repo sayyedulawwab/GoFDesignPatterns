@@ -7,6 +7,6 @@ using System.Threading.Tasks;
 namespace Visitor.Bad;
 public class PushNotification
 {
-    public string DeviceId { get; set; }
-    public string Message { get; set; }
+    public string DeviceId { get; set; } = string.Empty;
+    public string Message { get; set; } = string.Empty;
 }
